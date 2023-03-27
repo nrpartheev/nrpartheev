@@ -14,7 +14,11 @@
 
 - BACKEND DEVELOPMENT
 
-<img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=25> <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=node.js&logoColor=white" height=25>  <h1 style="color:IndianRed">Indian Red Title Text</h1>  <p style="color:SlateGray">Slate gray paragraph text</p>
+<img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=25> <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=node.js&logoColor=white" height=25> 
+
+- CYBER SECURITY
+
+<img src ="https://img.shields.io/badge/BURP%20SUIT-yellow.svg" height=25> 
 
 - ML & DEEP LEARNING
 
