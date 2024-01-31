@@ -15,6 +15,7 @@
 - BACKEND DEVELOPMENT
 
 <img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=25> <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=node.js&logoColor=white" height=25> 
+<img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height=25>
 
 - CYBER SECURITY
 
